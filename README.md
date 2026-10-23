@@ -15,6 +15,19 @@ Roadmap + status lengkap: **[docs/belajar-python/README.md](docs/belajar-python/
 | 5 | MOOS-DB & pymoos | 34–40 | `fase-5-moosdb/` |
 | 6 | Capstone | 41–42 | `fase-6-capstone/` |
 
+## Jalur Rust 🦀 (tambahan)
+
+Penasaran dengan Rust, relevan untuk C++/Qt & MOOS. 37 topik, 6 fase, issue **#43–#79** (label `rust`, judul `[Rxx]`), kode di `rust/`, catatan di [docs/belajar-rust/](docs/belajar-rust/README.md).
+
+| Fase | Fokus | Topik | Folder |
+|---|---|---|---|
+| 1 | Fondasi & Ownership | R01–R10 | `rust/fase-1-fondasi/` |
+| 2 | Intermediate | R11–R19 | `rust/fase-2-intermediate/` |
+| 3 | Advanced (Concurrency, Network, FFI) | R20–R26 | `rust/fase-3-advanced/` |
+| 4 | Rust + C++/Qt | R27–R30 | `rust/fase-4-rust-cpp-qt/` |
+| 5 | Rust + MOOS-DB | R31–R35 | `rust/fase-5-moosdb/` |
+| 6 | Capstone | R36–R37 | `rust/fase-6-capstone/` |
+
 ## Cara kerja per topik
 1. Buka issue topik → baca tujuan & checklist.
 2. Kerjakan kode di folder `fase-N-.../NN-nama-topik/` (1 file **contoh** + 1 file **latihan**).
