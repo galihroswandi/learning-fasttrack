@@ -2,7 +2,7 @@
 
 Background: web dev JS/TS yang sekarang mengerjakan project **Qt (C++)** dan **MOOS-DB**, belajar Python lagi dari awal. Gaya belajar mengikuti [cpp-learning-fasttrack](https://github.com/galihroswandi/cpp-learning-fasttrack): fase bertahap, contoh domain kapal/ECDIS, challenge & mini-project, serta catatan format **KONSEP → ATURAN → KODE MINIMAL → JALANKAN → BEDAH BARIS → EKSPERIMEN → CEK PAHAM**.
 
-Roadmap + status lengkap: **[docs/belajar-python/README.md](docs/belajar-python/README.md)**. Setiap topik = 1 GitHub Issue ([daftar issue](https://github.com/galihroswandi/python-learning-fasttrack/issues)).
+Roadmap + status lengkap: **[docs/belajar-python/README.md](docs/belajar-python/README.md)**. Setiap topik = 1 GitHub Issue #1–#42 ([daftar issue](https://github.com/galihroswandi/learning-fasttrack/issues)).
 
 ## Peta Fase
 
@@ -14,19 +14,6 @@ Roadmap + status lengkap: **[docs/belajar-python/README.md](docs/belajar-python/
 | 4 | Python + Qt (PySide6) | 27–33 | `fase-4-python-qt/` |
 | 5 | MOOS-DB & pymoos | 34–40 | `fase-5-moosdb/` |
 | 6 | Capstone | 41–42 | `fase-6-capstone/` |
-
-## Jalur Rust 🦀 (tambahan)
-
-Penasaran dengan Rust, relevan untuk C++/Qt & MOOS. 37 topik, 6 fase, issue **#43–#79** (label `rust`, judul `[Rxx]`), kode di `rust/`, catatan di [docs/belajar-rust/](docs/belajar-rust/README.md).
-
-| Fase | Fokus | Topik | Folder |
-|---|---|---|---|
-| 1 | Fondasi & Ownership | R01–R10 | `rust/fase-1-fondasi/` |
-| 2 | Intermediate | R11–R19 | `rust/fase-2-intermediate/` |
-| 3 | Advanced (Concurrency, Network, FFI) | R20–R26 | `rust/fase-3-advanced/` |
-| 4 | Rust + C++/Qt | R27–R30 | `rust/fase-4-rust-cpp-qt/` |
-| 5 | Rust + MOOS-DB | R31–R35 | `rust/fase-5-moosdb/` |
-| 6 | Capstone | R36–R37 | `rust/fase-6-capstone/` |
 
 ## Cara kerja per topik
 1. Buka issue topik → baca tujuan & checklist.
@@ -42,4 +29,5 @@ Satu venv di root cukup untuk Fase 1-3; Fase 4-5 bisa tambah `pip install PySide
 
 ## Lain-lain
 - Tips & jebakan: [docs/belajar-python/tips-umum.md](docs/belajar-python/tips-umum.md)
-- Repo C++ pembanding (porting latihan ke Python di Fase 4): [cpp-learning-fasttrack](https://github.com/galihroswandi/cpp-learning-fasttrack)
+- Jalur C++ pembanding (porting latihan ke Python di Fase 4): [../cpp/](../cpp/README.md)
+- Kembali ke [README utama](../README.md)
