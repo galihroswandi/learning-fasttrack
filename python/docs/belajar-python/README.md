@@ -11,7 +11,7 @@ Template catatan: [_template-topik.md](_template-topik.md).
 
 | No | Topik | Status | Issue | Catatan |
 |----|-------|--------|-------|---------|
-| 1 | Setup Environment: Python, venv, pip, ruff | ⏳ | #1 | — |
+| 1 | Setup Environment: Python, venv, pip, ruff | ✅ | #1 | [catatan](topik-01-setup-environment.md) · 2026-10-25 |
 | 2 | Syntax Dasar, Tipe Dinamis & Type Hints | ⏳ | #2 | — |
 | 3 | Control Flow: if, for, while, match & Comprehension | ⏳ | #3 | — |
 | 4 | Fungsi, Parameter, *args/**kwargs & Scope | ⏳ | #4 | — |

@@ -8,9 +8,9 @@ Repo belajar pribadi: web developer (JS/TS) yang sekarang mengerjakan project **
 | Track | Progress | Selesai | Berjalan | Belum | Total |
 |---|---|--:|--:|--:|--:|
 | [C++ & Qt](cpp/README.md) | `████████████░░░░░░░░` **58%** | 30 | 1 | 21 | 52 |
-| [Python](python/README.md) | `░░░░░░░░░░░░░░░░░░░░` **0%** | 0 | 0 | 42 | 42 |
+| [Python](python/README.md) | `░░░░░░░░░░░░░░░░░░░░` **2%** | 1 | 0 | 41 | 42 |
 | [Rust](rust/README.md) | `░░░░░░░░░░░░░░░░░░░░` **0%** | 0 | 0 | 37 | 37 |
-| **Semua** | `█████░░░░░░░░░░░░░░░` **23%** | 30 | | | 131 |
+| **Semua** | `█████░░░░░░░░░░░░░░░` **24%** | 31 | | | 131 |
 
 _Dihitung otomatis dari tabel status di roadmap tiap track (`python3 scripts/progress.py`). Hanya ✅ yang dihitung selesai._
 <!-- PROGRESS:END -->
