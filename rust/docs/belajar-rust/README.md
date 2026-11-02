@@ -14,7 +14,7 @@ Satu topik = satu GitHub Issue (label `rust`) = satu cargo project di `rust/` = 
 
 | No | Topik | Status | Issue | Catatan |
 |----|-------|--------|-------|---------|
-| R01 | Setup: rustup, cargo & Project Pertama | ⏳ | #43 | — |
+| R01 | Setup: rustup, cargo & Project Pertama | ✅ | #43 | [topik-01-setup-cargo.md](topik-01-setup-cargo.md) |
 | R02 | Variabel, Tipe Dasar & Mutability | ⏳ | #44 | — |
 | R03 | Control Flow & Fungsi | ⏳ | #45 | — |
 | R04 | Ownership & Move ⭐ | ⏳ | #46 | — |
